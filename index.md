@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Herin's first CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### my favorite things about CS 193
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- I like the straightforward nature of lecture material so far - nothing is confusing, everything is practical.
+- the attendance quizzes actually motivate me to stay focused throughout the lecture.
+- I appreciate the bits of humor sprinked throughout the slide presentations.
+- right off the bat, the things we've learned so far are applied to the assignments in CS 180.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### extra things about me
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. I was born in Korea and my nationality is Korean, but the majority of my life has been in California. 
+   As a result, I can fluently speak Korean and English.
+2. My hobbies include wildlife photography, gaming, playing piano, digital illustration, and cooking.
+3. I became interested in computer science in 5th grade, when I was first introduced to the world of game design. 
+   Game design was in fact one of the prominent reasons as to why I chose the study CS at Purdue. 
+   Regardless of where life leads me, it is my dream to one day make my own video game. 
+4. favorite food: anything with tofu. favorite color: green...probably? favorite animal: albatross. favorite game: inscryption.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+**I look forward to a good semester in CS 193 :)**
